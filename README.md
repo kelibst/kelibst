@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently working on React and Redux Applications;
 - I’m currently learning React Native and Flutter; 
 - Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I Love the Linux OS and I look to start contributing to it's open source project soon;
+- ⚡️ Fun-Fact: I Love the Linux OS and I look forward to start contributing to it's open source project soon;
 - 📫 How to reach me: kbooster17@gmail.com;
 
 **Languages and Tools:** 
