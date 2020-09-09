@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="./keli.png" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/kelibst/kelibst/main/keli.png" />
 
 - I’m currently working on React and Redux Applications;
 - I’m currently learning React Native and Flutter; 
