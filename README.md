@@ -1,6 +1,7 @@
 
 <!-- Your title -->
-## Hi Coders, I am Keli.
+## Hi Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
+`I am Keli, a Full-Stack developer, I am from Ghana`.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -13,15 +14,16 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Some Interesting information about me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/kelibst/kelibst/main/keli.png" />
+<img width="55%" align="right" alt="My logo" src="https://raw.githubusercontent.com/kelibst/kelibst/main/keli.png" />
 
-- I’m currently working on React and Redux Applications;
-- I’m currently learning React Native and Flutter; 
-- Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I Love the Linux OS and I look forward to start contributing to it's open source project soon;
+- ⚡️ I have over 2 years of experience as a Front-End developer.
+- ⚡️ I’m currently working on React and Redux Applications;
+- ⚡️ I’m currently learning React Native and Flutter; 
+- ⚡️ Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I Love the Linux OS and I look forward to start contributing to it's open source projects soon;
 
 **Languages and Tools:** 
 
@@ -29,7 +31,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/kelibst/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=kelibst&show_icons=true&hide_border=true" />
   </a>
   
@@ -52,6 +54,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 </p>
+
+<a href="https://github.com/kelibst/ninjaskrill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelibst&repo=ninjaskrill&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
