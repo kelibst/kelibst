@@ -1,7 +1,8 @@
 
 <!-- Your title -->
-## Hi Coders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
-`I am Keli, a Full-Stack developer, I am from Ghana`.
+## Hi Coders, I am Keli <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+### A father, a husband, a lover of beautiful Uis and a crazy Legend of Zelda fan.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -19,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="My logo" src="https://raw.githubusercontent.com/kelibst/kelibst/main/keli.png" />
 
-- ⚡️ I have over 2 years of experience as a Front-End developer.
+<!-- - ⚡️ I have over 2 years of experience as a Front-End developer. -->
 - ⚡️ I’m currently working on React and Redux Applications;
 - ⚡️ I’m currently learning React Native and Flutter; 
 - ⚡️ Ask me about anything, I am happy to help;
