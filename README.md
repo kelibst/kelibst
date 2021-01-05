@@ -2,7 +2,7 @@
 <!-- Your title -->
 ## Hi Coders, I am Keli <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am a father, a husband, a lover of beautiful Uis and a crazy Legend of Zelda fan.
+### I'm a father and a husband. I love beautiful UIs and I'm a crazy Legend of Zelda fan.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
