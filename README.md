@@ -21,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="My logo" src="https://raw.githubusercontent.com/kelibst/kelibst/main/keli.png" />
 
 <!-- - ⚡️ I have over 2 years of experience as a Front-End developer. -->
-- ⚡️ I’m currently working on React and Redux Applications
-- ⚡️ I’m currently learning React Native and Flutter 
+- ⚡️ I’m currently working on React Native and Flutter Application
+- ⚡️ I’m currently learning Front-End Mobile Development 
 - ⚡️ Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I Love the Linux OS and I look forward to start contributing to its open source projects soon
 
