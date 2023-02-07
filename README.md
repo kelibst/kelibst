@@ -18,9 +18,9 @@ You can use the website to generate badges: https://shields.io/
 **Some Interesting information about me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="My logo" src="https://raw.githubusercontent.com/kelibst/kelibst/main/keli.png" />
+<!-- <img width="55%" align="right" alt="My logo" src="https://raw.githubusercontent.com/kelibst/kelibst/main/keli.png" /> -->
 
-<!-- - ⚡️ I have over 2 years of experience as a Front-End developer. -->
+<!-- - ⚡️ I have over 6 years of experience as a Front-End developer. -->
 - ⚡️ I’m currently working on React Native and Flutter Application
 - ⚡️ I’m currently learning Front-End Mobile Development 
 - ⚡️ Ask me about anything, I am happy to help
